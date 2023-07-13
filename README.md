@@ -1,4 +1,4 @@
-# Oyun Scriptleri Repository'si
+# Leaf Helper Scripts
 
 Bu repository, benim sıkça kullandığım ve diğer oyun geliştiricilere yardımcı olabileceğini düşündüğüm bazı scriptleri içerir. Repository sürekli güncellenir ve yeni scriptler eklenirken var olanlar da geliştirilmeye devam eder.
 
